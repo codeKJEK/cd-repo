@@ -21,7 +21,8 @@ Repository for Charles Downs
 
 You will be learning these as you go so don't spend a ton of time on this but the more you know the better.
 
-- HTML5 Tags and Semantic HTML \*[Tag List from MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- HTML5 Tags and Semantic HTML
+  - [Tag List from MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - CSS and SASS
   - [CSS Selectors from W3](https://www.w3schools.com/cssref/css_selectors.php)
   - [SASS Documentation](https://sass-lang.com/documentation/)
